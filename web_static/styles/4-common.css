@@ -1,0 +1,26 @@
+/*This is common css file for global style*/
+body {
+	padding: 0;
+	margin: 0;
+	
+}
+
+.container {
+	max-width: 1000px;
+	margin: 30px auto;
+	display: flex;
+	align-items: center;
+}
+
+.content {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+p {
+	font-size: 14px;
+	color: #484848;
+	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}

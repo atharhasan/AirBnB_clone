@@ -1,0 +1,12 @@
+/*This is common css file for global style*/
+body {
+	padding: 0;
+	margin: 0;
+	
+}
+
+p {
+	font-size: 14px;
+	color: #484848;
+	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}

@@ -1,0 +1,7 @@
+/*This is header css file for header style*/
+.header {
+	background-color: red;
+	height: 70px;
+	width: 100%;
+	padding: 0;
+}
